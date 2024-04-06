@@ -3,956 +3,186 @@
 {"url": "invidious.fdn.fr",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-15880cd8",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 34783,
-            "activeHalfyear": 7684,
-            "activeMonth": 1151
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410287,
-          "lastChannelRefreshedAt": 1712410262
-        },
-        "playback": {
-          "totalRequests": 46815,
-          "successfulRequests": 28762,
-          "ratio": 0.61
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.fdn.fr",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "vid.puffyan.us",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 21435,
-            "activeHalfyear": 5894,
-            "activeMonth": 592
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410322,
-          "lastChannelRefreshedAt": 1712408675
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://vid.puffyan.us",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.nerdvpn.de",
       "flag": "🇺🇦",
       "region": "UA",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 5608,
-            "activeHalfyear": 2216,
-            "activeMonth": 227
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410804,
-          "lastChannelRefreshedAt": 1712409507
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.nerdvpn.de",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.projectsegfau.lt",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 4722,
-            "activeHalfyear": 1193,
-            "activeMonth": 143
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712085188,
-          "lastChannelRefreshedAt": 1712058595
-        },
-        "playback": {
-          "totalRequests": 13866,
-          "successfulRequests": 20,
-          "ratio": 0.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.projectsegfau.lt",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.lunar.icu",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 3629,
-            "activeHalfyear": 2341,
-            "activeMonth": 357
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410263,
-          "lastChannelRefreshedAt": 1712394627
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.lunar.icu",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.tux.pizza",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 3311,
-            "activeHalfyear": 1902,
-            "activeMonth": 292
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410249,
-          "lastChannelRefreshedAt": 1712405998
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://inv.tux.pizza",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.flokinet.to",
       "flag": "🇷🇴",
       "region": "RO",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 3160,
-            "activeHalfyear": 1154,
-            "activeMonth": 293
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410274,
-          "lastChannelRefreshedAt": 1712405098
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.flokinet.to",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.privacydev.net",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 2655,
-            "activeHalfyear": 1528,
-            "activeMonth": 300
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410803,
-          "lastChannelRefreshedAt": 1712403462
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.privacydev.net",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "iv.ggtyler.dev",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 2504,
-            "activeHalfyear": 2280,
-            "activeMonth": 206
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410262,
-          "lastChannelRefreshedAt": 1712409493
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://iv.ggtyler.dev",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.nadeko.net",
       "flag": "🇨🇱",
       "region": "CL",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-b38bdfec",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 1996,
-            "activeHalfyear": 1076,
-            "activeMonth": 169
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410331,
-          "lastChannelRefreshedAt": 1712406320
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://inv.nadeko.net",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "iv.nboeck.de",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 1812,
-            "activeHalfyear": 1489,
-            "activeMonth": 518
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410494,
-          "lastChannelRefreshedAt": 1712409738
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://iv.nboeck.de",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "yt.artemislena.eu",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 1585,
-            "activeHalfyear": 52,
-            "activeMonth": 0
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410809,
-          "lastChannelRefreshedAt": 1712410680
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://yt.artemislena.eu",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.private.coffee",
       "flag": "🇦🇹",
       "region": "AT",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 1167,
-            "activeHalfyear": 1023,
-            "activeMonth": 328
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410505,
-          "lastChannelRefreshedAt": 1712409876
-        },
-        "playback": {
-          "totalRequests": 1219,
-          "successfulRequests": 538,
-          "ratio": 0.44
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.private.coffee",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.n8pjl.ca",
       "flag": "🇨🇦",
       "region": "CA",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 1120,
-            "activeHalfyear": 1120,
-            "activeMonth": 511
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410801,
-          "lastChannelRefreshedAt": 1712410752
-        },
-        "playback": {
-          "totalRequests": 21,
-          "successfulRequests": 21,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://inv.n8pjl.ca",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.us.projectsegfau.lt",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 1018,
-            "activeHalfyear": 897,
-            "activeMonth": 104
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410296,
-          "lastChannelRefreshedAt": 1712330919
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://inv.us.projectsegfau.lt",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "iv.datura.network",
       "flag": "🇫🇮",
       "region": "FI",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 996,
-            "activeHalfyear": 893,
-            "activeMonth": 299
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410828,
-          "lastChannelRefreshedAt": 1712405529
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://iv.datura.network",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.perennialte.ch",
       "flag": "🇦🇺",
       "region": "AU",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.04.01-bf51dac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 954,
-            "activeHalfyear": 893,
-            "activeMonth": 171
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410813,
-          "lastChannelRefreshedAt": 1712405369
-        },
-        "playback": {
-          "totalRequests": 1,
-          "successfulRequests": 1,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.perennialte.ch",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.drgns.space",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 825,
-            "activeHalfyear": 825,
-            "activeMonth": 318
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410803,
-          "lastChannelRefreshedAt": 1712399151
-        },
-        "playback": {
-          "totalRequests": 18,
-          "successfulRequests": 18,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.drgns.space",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.jing.rocks",
       "flag": "🇯🇵",
       "region": "JP",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 772,
-            "activeHalfyear": 772,
-            "activeMonth": 520
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410322,
-          "lastChannelRefreshedAt": 1712410322
-        },
-        "playback": {
-          "totalRequests": 1484,
-          "successfulRequests": 982,
-          "ratio": 0.66
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.jing.rocks",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.einfachzocken.eu",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 615,
-            "activeHalfyear": 614,
-            "activeMonth": 109
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410536,
-          "lastChannelRefreshedAt": 1712405247
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.einfachzocken.eu",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.oikei.net",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 207,
-            "activeHalfyear": 207,
-            "activeMonth": 188
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410281,
-          "lastChannelRefreshedAt": 1712410281
-        },
-        "playback": {
-          "totalRequests": 1199,
-          "successfulRequests": 1199,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://inv.oikei.net",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "vid.lilay.dev",
       "flag": "🇸🇬",
       "region": "SG",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": true,
-        "usage": {
-          "users": {
-            "total": 184,
-            "activeHalfyear": 184,
-            "activeMonth": 180
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410807,
-          "lastChannelRefreshedAt": 1712410806
-        },
-        "playback": {
-          "totalRequests": 6,
-          "successfulRequests": 6,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://vid.lilay.dev",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "yt.drgnz.club",
       "flag": "🇨🇿",
       "region": "CZ",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 2,
-            "activeHalfyear": 2,
-            "activeMonth": 2
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410802,
-          "lastChannelRefreshedAt": 1712410205
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://yt.drgnz.club",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "yewtu.be",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.04.06-840100b",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 1,
-            "activeHalfyear": 0,
-            "activeMonth": 0
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410818,
-          "lastChannelRefreshedAt": 1712410410
-        },
-        "playback": {}
-      },
-      "cors": false,
-      "api": false,
-      "type": "https",
-      "uri": "https://yewtu.be",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "yt.cdaut.de",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 1,
-            "activeHalfyear": 1,
-            "activeMonth": 1
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410847,
-          "lastChannelRefreshedAt": 1712410359
-        },
-        "playback": {
-          "totalRequests": 1,
-          "successfulRequests": 1,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://yt.cdaut.de",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.protokolla.fi",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "https",
-      "uri": "https://invidious.protokolla.fi",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "iv.melmac.space",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390acd",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 0,
-            "activeHalfyear": 0,
-            "activeMonth": 0
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410804,
-          "lastChannelRefreshedAt": 0
-        },
-        "playback": {
-          "totalRequests": 34,
-          "successfulRequests": 34,
-          "ratio": 1.0
-        }
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://iv.melmac.space",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.privacyredirect.com",
       "flag": "🇫🇮",
       "region": "FI",
-      "stats": {
-        "version": "2.0",
-        "software": {
-          "name": "invidious",
-          "version": "2024.03.31-08390ac",
-          "branch": "master"
-        },
-        "openRegistrations": false,
-        "usage": {
-          "users": {
-            "total": 0,
-            "activeHalfyear": 0,
-            "activeMonth": 0
-          }
-        },
-        "metadata": {
-          "updatedAt": 1712410802,
-          "lastChannelRefreshedAt": 0
-        },
-        "playback": {}
-      },
-      "cors": true,
-      "api": true,
-      "type": "https",
-      "uri": "https://invidious.privacyredirect.com",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "i2p",
-      "uri": "http://pjsfhqamc7k6htnumrvn4cwqqdoggeepj7u5viyimgnxg3gar72q.b32.i2p",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p",
       "flag": "🇱🇺",
       "region": "LU",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "i2p",
-      "uri": "http://pjsfi2szfkb4guqzmfmlyq4no46fayertjrwt4h2uughccrh2lvq.b32.i2p",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p",
       "flag": "🇨🇱",
       "region": "CL",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "i2p",
-      "uri": "http://zzlsbhhfvwg3oh36tcvx4r7n6jrw7zibvyvfxqlodcwn3mfrvzuq.b32.i2p",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
       "flag": "🇺🇸",
       "region": "US",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion",
       "flag": "🇩🇪",
       "region": "DE",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://ng27owmagn5amdm7l5s3rsqxwscl5ynppnis5dqcasogkyxcfqn7psid.onion",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://invidious.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
       "flag": "🇫🇷",
       "region": "FR",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://inv.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
       "flag": "🇨🇱",
       "region": "CL",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://inv.nadekonw7plitnjuawu6ytjsl7jlglk2t6pyq6eftptmiv3dvqndwvyd.onion",
-      "monitor": null
+"app":"Invidious"
 },
 {"url": "nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion",
       "flag": "🇺🇦",
-      "region": "UA",
-      "stats": null,
-      "cors": null,
-      "api": null,
-      "type": "onion",
-      "uri": "http://nerdvpneaggggfdiurknszkbmhvjndks5z5k3g5yp4nhphflh3n3boad.onion",
-      "monitor": null
+      "region": "UA"
     }
   ]
 }
